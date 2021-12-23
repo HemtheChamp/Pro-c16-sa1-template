@@ -15,7 +15,7 @@ class Box
     
     //write function to set the width of the box
 set_speed(v){
-  this.x=this.x=+v
+  this.x=this.x+v
 }
   set_width(b){
     this.w=b;
