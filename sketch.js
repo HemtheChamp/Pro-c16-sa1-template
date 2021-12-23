@@ -11,9 +11,9 @@ function draw() {
   background(220);
 box1.show();
   box1.set_speed(4);
-  box1.set_width(5);
+  box1.set_width(90);
   box2.show();
-  box2.set_speed(6);
-  box2.set_width(7);
+  box2.set_speed(3);
+  box2.set_width(100);
 }
 
